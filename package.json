@@ -1,5 +1,5 @@
 {
-  "name": "app2",
+  "name": "App",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-native": "0.76.7",
-    "react-native-masked-text": "^1.13.0",
+    "react-native-masked-text": "^1.12.5",
     "react-native-web": "~0.19.13"
   },
   "devDependencies": {
